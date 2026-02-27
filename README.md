@@ -1,4 +1,4 @@
-# 🗺️ Flask + OpenStreetMap — Buscador de Lugares
+# 🗺️ Flask + OpenStreetMap — API Geolocalización
 
 Aplicación web educativa desarrollada con **Flask** y la API de **OpenStreetMap (Nominatim)** que permite buscar cualquier lugar del mundo y visualizarlo en un mapa interactivo.
 
@@ -163,4 +163,3 @@ Recibe el nombre del lugar, consulta la API de Nominatim y pasa las coordenadas 
 
 **Vanesa Monserrat Medrano Hernández**  
 > Materia: Desarrollo Web Profesional Unidad II
-> Institución: Universidad Tecnológica del Norte de Guanajuato
