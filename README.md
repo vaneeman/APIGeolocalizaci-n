@@ -162,5 +162,5 @@ Recibe el nombre del lugar, consulta la API de Nominatim y pasa las coordenadas 
 ##  Autor
 
 **Vanesa Monserrat Medrano Hernández**  
-Materia: Desarrollo Web Profesional  Unidad II
-Institución: Universidad Tecnológica del Norte de Guanajuato
+> Materia: Desarrollo Web Profesional Unidad II
+> Institución: Universidad Tecnológica del Norte de Guanajuato
